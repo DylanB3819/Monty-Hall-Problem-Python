@@ -1,2 +1,3 @@
 # Monty-Hall-Problem-Python
-the was a coded solution to the Monty Hall Problem
+## This is a coded solution to the Monty Hall Problem, which involves the user selecting a doors in order to win a prize, in this case a car. The problem involves the use of statistical variable change and choose to create this program when I couldn't correct a relative's misunderstanding of the problem. This is also why I created the simulation, which highlights the change ny running through the problem numerous times.
+## I really enjoyed creating these programs, especially due to the confusing nature of the problem as people inherently feel the need to keep their first choice. The programs were also an opportunity to practice more advanced Python techniques including list comprehesion, which I had just learnt at the time.
